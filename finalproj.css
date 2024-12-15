@@ -1,0 +1,39 @@
+.page{
+    background-color:  #f4d5ff;
+    width: 100%;
+    height: 1500px;
+  
+}
+.head1{
+    background-color: purple;
+    height: 60px;
+    width: 100%;
+    font-size: 40px;
+    text-align: right;
+    padding-top: 25px;
+    
+        
+}
+
+.nav a{
+    color: white;
+    text-decoration: none;
+    margin-right: 50px;
+    font-size: 35px;   
+}
+body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+img {
+    border-radius: 500px;
+    margin-right: 200px;
+    margin-top: 150px;    
+}
+h2{
+    text-align: left;
+    margin-left: 50px;
+}
